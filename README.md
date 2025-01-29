@@ -1,4 +1,4 @@
-# Two-dimensional Ekman-Inertial Instability
+# 2D Ekman-Inertial Instability
 
 Code repository to support the manuscript "Two-dimensional Ekman-Inertial Instability: a comparison with Inertial Instability" by F. Trujano-Jimenez, V. E. Zemskova, and N. Grisouard. Available from:
 
